@@ -25,7 +25,7 @@ This is a contact management application built with ReactJS, TypeScript, Tailwin
 - TailwindCSS
 - React Router v6
 - React Query (TanstackQuery)
-- React leaflet
+- React Leaflet
 - React Chartjs
 
 ## Deployment
