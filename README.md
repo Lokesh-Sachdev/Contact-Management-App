@@ -20,10 +20,13 @@ This is a contact management application built with ReactJS, TypeScript, Tailwin
 ## Technologies Used
 
 - ReactJS
+- Redux
 - TypeScript
 - TailwindCSS
 - React Router v6
 - React Query (TanstackQuery)
+- React leaflet
+- React Chartjs
 
 ## Deployment
 
